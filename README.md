@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rexyonist&label=Profile%20views&color=0e75b6&style=flat-square" alt="rexyonist" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bchihola" target="blank"><img src="https://img.shields.io/twitter/follow/bchihola?logo=twitter&style=for-the-badge" alt="bchihola" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS, Laravel, etc**
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/bchihola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bchihola" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bryant-h-637149167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bryant-h-637149167/" height="30" width="40" /></a>
 <a href="https://kaggle.com/bryantchihola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bryantchihola" height="30" width="40" /></a>
 <a href="https://instagram.com/bryant_christ_hihola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bryant_christ_hihola" height="30" width="40" /></a>
