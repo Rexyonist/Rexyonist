@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rexyonist&label=Profile%20views&color=0e75b6&style=flat-square" alt="rexyonist" /> </p>
 
-🌱 I’m currently learning ReactJS<br>📫 How to reach me bryanthihola@gmail.com<br>⚡ Fun fact I Love Anime !!
+🌱 I’m currently learning ReactJS<br>📫 How to reach me bryanthihola@gmail.com<br>⚡ Fun fact Master Degree in Anime !!
 
 
 ## 🌐 Socials:
